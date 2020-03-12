@@ -61,8 +61,8 @@ Use `akash tx` to create transactions.
 |  slashing   |  Slashing transactions subcommands
 |  staking    |  Staking transaction subcommands
 
-
 ## deployment
+
 
 Deployment transaction subcommands
 
